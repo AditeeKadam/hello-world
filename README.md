@@ -1,2 +1,2 @@
 # hello-world
-New to github
+Beginning from zilch.
